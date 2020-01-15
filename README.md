@@ -71,3 +71,6 @@ Testimonials about Python, how Python is used at companies.
 
 - > When we first started building Pinterest, we used Python as our development language, which helped us build quickly and reliably. Over the years we built many tools around Python ([pinterest-engineering](https://medium.com/pinterest-engineering/open-sourcing-kingpin-building-blocks-for-scaling-pinterest-8febe81f2c1c))
 
+# Patreon
+
+- > Patreon uses Flask ([source](https://labs.detectify.com/2015/10/02/how-patreon-got-hacked-publicly-exposed-werkzeug-debugger/))
