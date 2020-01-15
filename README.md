@@ -69,5 +69,5 @@ Testimonials about Python, how Python is used at companies.
 
 - > Pinterest is powered by a large Python codebase. ([pinterest-engineering](https://medium.com/pinterest-engineering/open-sourcing-ptracer-a-syscall-tracing-library-for-python-b0fe0d91105d))
 
--> When we first started building Pinterest, we used Python as our development language, which helped us build quickly and reliably. Over the years we built many tools around Python ([pinterest-engineering](https://medium.com/pinterest-engineering/open-sourcing-kingpin-building-blocks-for-scaling-pinterest-8febe81f2c1c))
+- > When we first started building Pinterest, we used Python as our development language, which helped us build quickly and reliably. Over the years we built many tools around Python ([pinterest-engineering](https://medium.com/pinterest-engineering/open-sourcing-kingpin-building-blocks-for-scaling-pinterest-8febe81f2c1c))
 
