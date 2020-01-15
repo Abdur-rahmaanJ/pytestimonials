@@ -1,5 +1,5 @@
 # pytestimonials
-Testimonials about Python, how Python is used at companies.
+Testimonials about Python, how Python is used at companies, quotes included
 
 # LinkedIn
 
