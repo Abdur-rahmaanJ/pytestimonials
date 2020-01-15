@@ -73,4 +73,8 @@ Testimonials about Python, how Python is used at companies, quotes included
 
 # Patreon
 
-- > Patreon uses Flask ([source](https://labs.detectify.com/2015/10/02/how-patreon-got-hacked-publicly-exposed-werkzeug-debugger/))
+Patreon uses Flask ([source](https://labs.detectify.com/2015/10/02/how-patreon-got-hacked-publicly-exposed-werkzeug-debugger/))
+
+# Disqus
+
+Disqus uses Django as the basis of their service ([source](https://www.youtube.com/watch?v=CXhljKhRVpI))
