@@ -27,7 +27,7 @@ Testimonials about Python, how Python is used at companies, quotes included
 
 - > Using Python enables us to write code that dynamically generates configuration objects without creating, maintaining, or learning to use complex templating systems that are typically required for this use case. ([engineering.fb.com](https://engineering.fb.com/production-engineering/python-in-production-engineering/))
 
-# NextFlix
+# Netflix
 
 - > More and more, developers turn to Python due to its rich batteries-included standard library, succinct and clean yet expressive syntax, large developer community, and the wealth of third party libraries one can tap into to solve a given problem. Its dynamic underpinnings enable developers to rapidly iterate and innovate, two very important qualities at Netflix
 
